@@ -31,7 +31,7 @@ class PDFController extends Controller
             'rincian_gaji' => [
                 'details'  => [
                     'jumlah_pasien'  => '30 Pasien',
-                    'total_transaksi'  => 'Rp 22.340.000',
+                    'total_transaksi'  => 'Rp 24.340.000',
                     'total_discount'  => '-Rp 300.000',
                     'total_biaya_sarana_lab'  => '-Rp 300.000',
                     'total_nett_transaksi'  => 'Rp 16.850.000',
